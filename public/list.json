@@ -1,0 +1,82 @@
+[
+   {
+    "id":1,
+    "name":"Story Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":2,
+    "name":"Magazines",
+    "title":"Lorem ipsum dolor sit amet, consectetur. ",
+    "price":20,
+    "category":"Premium",
+   "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":3,
+    "name":"Sports Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur",
+    "price":0,
+    "category":"Free",
+   "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":4,
+    "name":"Story Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur .",
+    "price":0,
+    "category":"Free",
+   "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":5,
+    "name":"Comics",
+    "title":"Lorem ipsum dolor sit amet, consectetur.",
+    "price":100,
+    "category":"Premium",
+  "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":6,
+    "name":"Story Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur.",
+    "price":0,
+    "category":"Free",
+  "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":7,
+    "name":"Journals",
+    "title":"Lorem ipsum dolor sit amet, consectetur.",
+    "price":200,
+    "category":"Premium",
+  "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":8,
+    "name":"Guide Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur.",
+    "price":0,
+    "category":"Free",
+  "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":9,
+    "name":"CSE Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur.",
+    "price":0,
+    "category":"Free",
+  "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   },
+   {
+    "id":10,
+    "name":"Arts&craft",
+    "title":"Lorem ipsum dolor sit amet, consectetur.",
+    "price":200,
+    "category":"Premium",
+  "image":"https://img.freepik.com/free-photo/pencils-wire-holder-books-near-chalkboard-back-school_157027-4206.jpg?t=st=1717678691~exp=1717682291~hmac=fdc05402f91a648bcd73e25fff4a7d6d1874a3257a69ea4b90c7a1a4da57f281&w=1380"
+   }
+]
